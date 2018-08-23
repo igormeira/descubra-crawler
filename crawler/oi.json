@@ -1,0 +1,44 @@
+[
+{"Date": "2018-08-15 17:30:55.046989", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 17:37:51.963305", "Spider": "oiInternet", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:37:52.553594", "Spider": "oiInternet", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:37:53.167872", "Spider": "oiInternet", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 17:43:25.584795", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:43:26.632148", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:43:27.680792", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 17:49:30.516670", "Spider": "oiTv", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:49:31.377012", "Spider": "oiTv", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:49:32.224272", "Spider": "oiTv", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 17:54:04.033146", "Spider": "oiTv", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:54:04.827499", "Spider": "oiTv", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:54:05.681524", "Spider": "oiTv", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 17:56:48.346487", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:56:49.191393", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:56:50.749381", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:56:51.528983", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 17:59:27.879510", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 17:59:58.933862", "Spider": "oiPós", "Status": 503, "Response": "<!DOCTYPE html>\n\t<html>\n\t  <head>\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t\t<meta charset=\"utf-8\">\n\t\t<title>Application Error</title>\n\t\t<style media=\"screen\">\n\t\t  html,body,iframe {\n\t\t\tmargin: 0;\n\t\t\tpadding: 0;\n\t\t  }\n\t\t  html,body {\n\t\t\theight: 100%;\n\t\t\toverflow: hidden;\n\t\t  }\n\t\t  iframe {\n\t\t\twidth: 100%;\n\t\t\theight: 100%;\n\t\t\tborder: 0;\n\t\t  }\n\t\t</style>\n\t  </head>\n\t  <body>\n\t\t<iframe src=\"//www.herokucdn.com/error-pages/application-error.html\"></iframe>\n\t  </body>\n\t</html>"},
+{"Date": "2018-08-15 18:00:02.218515", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:00:03.188063", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 18:03:31.688948", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:03:33.019120", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:03:35.513672", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:03:36.982076", "Spider": "oiPós", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 18:06:51.228962", "Spider": "oiControle", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:06:52.661911", "Spider": "oiControle", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 18:10:57.515769", "Spider": "oiControle", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:10:58.845250", "Spider": "oiControle", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-15 18:14:43.447210", "Spider": "oiPré", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:14:44.908502", "Spider": "oiPré", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-15 18:14:46.218985", "Spider": "oiPré", "Status": 200, "Response": "\"Dados adicionados!\""}
+]

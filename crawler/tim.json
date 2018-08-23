@@ -1,0 +1,70 @@
+[
+{"Date": "2018-08-09 20:16:54.924369", "Spider": "timControle", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:16:55.843229", "Spider": "timControle", "Status": 200, "Response": "\"Dados adicionados!\""}
+]
+[
+{"Date": "2018-08-09 20:18:35.259814", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:18:36.913319", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:18:38.755657", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:18:40.149756", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""}
+]
+[
+{"Date": "2018-08-09 20:19:11.934020", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:19:13.164006", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:19:15.313043", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:19:17.156740", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""}
+]
+[
+{"Date": "2018-08-09 20:27:15.665462", "Spider": "timFixoControle", "Status": 200, "Response": "\"Dados adicionados!\""}
+]
+[
+{"Date": "2018-08-09 20:28:58.064908", "Spider": "timFixoControle", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-09 20:31:07.088300", "Spider": "timFixoPre", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"t": "Pós TIM FIXO LOCAL TOTAL PLUS"},
+{"t": "Pós TIM FIXO BRASIL TOTAL PLUS"},
+{"t": "Pós TIM FIXO TOTAL LDI PLUS"}
+][
+{"t": "Pós TIM FIXO LOCAL TOTAL PLUS"},
+{"Date": "2018-08-09 20:38:28.528626", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"t": "Pós TIM FIXO BRASIL TOTAL PLUS"},
+{"Date": "2018-08-09 20:38:29.968070", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"t": "Pós TIM FIXO TOTAL LDI PLUS"},
+{"Date": "2018-08-09 20:38:31.316804", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-09 20:42:07.121234", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:42:08.166784", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:42:09.725880", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-09 20:45:02.041343", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:45:02.804665", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:45:04.192865", "Spider": "timFixoPos", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-09 20:46:13.837474", "Spider": "timInternet", "Status": 404, "Response": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>\n"},
+{"Date": "2018-08-09 20:46:15.461161", "Spider": "timInternet", "Status": 404, "Response": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>\n"}
+][
+{"Date": "2018-08-09 20:48:24.585473", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-09 20:48:26.019835", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-18 11:35:46.482277", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:35:47.726673", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:35:48.952414", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:35:50.487359", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-18 11:38:43.151291", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:38:44.073887", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:38:44.995863", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:38:45.978804", "Spider": "timPre", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-18 11:40:38.185430", "Spider": "timControle", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:40:39.415624", "Spider": "timControle", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-18 11:41:21.200944", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:41:22.119686", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:41:23.036690", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 11:41:24.267555", "Spider": "timPos", "Status": 200, "Response": "\"Dados adicionados!\""}
+][
+{"Date": "2018-08-18 18:55:04.295073", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""},
+{"Date": "2018-08-18 18:55:09.592098", "Spider": "timInternet", "Status": 200, "Response": "\"Dados adicionados!\""}
+]
